@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3er038/v1
+canonical_location: https://kanripo.org/bkk/KR3er038/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 古今醫鑑（初刊本）
+  identifiers:
+    krp: KR3er038
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er038.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3er038_001.yaml
+    hash: sha256:c7cd83f1b79fccc59cba5d230eeff833042413506d4796bd661c15d70c93b00b
+table_of_contents: []
+hash: sha256:afd3809e371dc9881789f265c576929a6a60e457859e604372413609fc7cf2fb

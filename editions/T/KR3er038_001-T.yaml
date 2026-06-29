@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3er038/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 古今醫鑑（初刊本）
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er038.xml
+hash: sha256:c7cd83f1b79fccc59cba5d230eeff833042413506d4796bd661c15d70c93b00b
