@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er038/v1
 canonical_location: https://kanripo.org/bkk/KR3er038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 古今醫鑑（初刊本）
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3er038_001.yaml
     hash: sha256:c7cd83f1b79fccc59cba5d230eeff833042413506d4796bd661c15d70c93b00b
 table_of_contents: []
-hash: sha256:afd3809e371dc9881789f265c576929a6a60e457859e604372413609fc7cf2fb
+hash: sha256:3b7f2d92999d2c492e7c5a4733568f1678ecdd7ee81405029d4737bd6c65c291
